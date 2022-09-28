@@ -1,0 +1,7 @@
+Hello World!
+What's up!
+I am learning File Handling in Python 
+
+I am appending
+I am appending
+I am appending

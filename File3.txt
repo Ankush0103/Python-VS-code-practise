@@ -1,0 +1,2 @@
+100 random numbers less than 1000 are:
+randomlistrandomlist

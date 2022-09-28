@@ -1,0 +1,6 @@
+f = open("this.txt", "w")
+f.write("This is nice")
+f.write("This is nice")
+f.write("This is nice")
+f.write("This is nice")
+f.close()

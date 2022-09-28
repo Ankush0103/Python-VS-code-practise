@@ -1,0 +1,8 @@
+from collections import OrderedDict
+
+def remove_duplicate(s): 
+    return "".join(OrderedDict.fromkeys(s))
+
+s = input("Enter the string: ")
+print(s)
+print("After removing duplicates: ",remove_duplicate(s))

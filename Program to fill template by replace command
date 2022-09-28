@@ -1,0 +1,14 @@
+letter = '''Dear <|NAME|>,
+Greetings from ABC coding House
+You are selected!
+Regards
+Bill
+
+Date: <|DATE|>
+'''
+
+name = input("Enter your name\n")
+date = input("Enter Date\n")
+letter = letter.replace("<|NAME|>", name)
+letter = letter.replace("<|DATE|>", date)
+print(letter)
