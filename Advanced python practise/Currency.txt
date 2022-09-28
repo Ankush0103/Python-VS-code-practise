@@ -1,0 +1,57 @@
+# Currency converter
+
+Argentine Peso	1.360747	0.734890
+Australian Dollar	0.018397	54.357041
+Bahraini Dinar	0.005002	199.900771
+Botswana Pula	0.156277	6.398907
+Brazilian Real	0.075476	13.249251
+British Pound	0.009933	100.674769
+Bruneian Dollar	0.018070	55.339457
+Bulgarian Lev	0.022963	43.548620
+Canadian Dollar	0.017064	58.602941
+Chilean Peso	11.432317	0.087471
+Chinese Yuan Renminbi	0.084749	11.799502
+Colombian Peso	53.214680	0.018792
+Croatian Kuna	0.088246	11.332014
+Czech Koruna	0.294140	3.399739
+Danish Krone	0.087302	11.454524
+Emirati Dirham	0.048861	20.466355
+Euro	0.011741	85.173697
+Hong Kong Dollar	0.103763	9.637379
+Hungarian Forint	4.343298	0.230240
+Icelandic Krona	1.728306	0.578601
+Indonesian Rupiah	189.220323	0.005285
+Iranian Rial	560.021280	0.001786
+Israeli Shekel	0.041933	23.847836
+Japanese Yen	1.522577	0.656781
+Kazakhstani Tenge	5.772550	0.173234
+Kuwaiti Dinar	0.004026	248.389624
+Libyan Dinar	0.061328	16.305636
+Malaysian Ringgit	0.055869	17.899157
+Mauritian Rupee	0.583652	1.713349
+Mexican Peso	0.274560	3.642188
+Nepalese Rupee	1.600750	0.624707
+New Zealand Dollar	0.019526	51.213129
+Norwegian Krone	0.117346	8.521805
+Omani Rial	0.005116	195.481639
+Pakistani Rupee	2.372109	0.421566
+Philippine Peso	0.665144	1.503433
+Polish Zloty	0.054386	18.386939
+Qatari Riyal	0.048428	20.649091
+Romanian New Leu	0.058112	17.208239
+Russian Ruble	0.976763	1.023790
+Saudi Arabian Riyal	0.049892	20.043384
+Singapore Dollar	0.018070	55.339457
+South African Rand	0.208023	4.807158
+South Korean Won	15.784988	0.063351
+Sri Lankan Rupee	2.694173	0.371171
+Swedish Krona	0.120847	8.274932
+Swiss Franc	0.012205	81.933036
+Taiwan New Dollar	0.369046	2.709691
+Thai Baht	0.445972	2.242291
+Trinidadian Dollar	0.090323	11.071334
+Turkish Lira	0.153358	6.520702
+US Dollar	0.013304	75.162690
+Venezuelan Bolivar	6090.515073	0.000164
+Dec 24, 2021 05:55 UTC
+
